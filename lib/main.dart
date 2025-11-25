@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      //Quitar el banner de "DEBUG" en la esquina superior derecha
+      //Quitar el banner de "DEBUG" en la esquina superior derecha ajsdgjha
       debugShowCheckedModeBanner: false,
       //Título de la aplicación
       title: "Mi portafolio",
